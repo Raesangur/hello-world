@@ -4,6 +4,7 @@
 		<li> C Library </li>
 		<li> C# Code </li>
 		<li> VHDL Code </li>
+		<li> Schematics </li>
 		<li> </li>
 	</body>
 </head>
