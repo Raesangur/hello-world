@@ -3,7 +3,7 @@
 		<p> Elements of the GraphBit repository </p>
 		<li> C Library </li>
 		<li> C# Code </li>
-		<li> </li>
+		<li> VHDL Code </li>
 		<li> </li>
 	</body>
 </head>
